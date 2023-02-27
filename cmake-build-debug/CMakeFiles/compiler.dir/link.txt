@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/compiler.dir/hello.cpp.o -o compiler 
